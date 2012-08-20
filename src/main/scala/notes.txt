@@ -1,0 +1,17 @@
+/*
+  Fundamental:
+
+  Selection
+  Projection: Tuples of R are restricted to a set
+  Cartesian Product
+  Set union
+  Set difference
+  Rename   rename one of the tuples to another thing
+
+
+  Derived:
+  Set intersection
+  Divison
+  Natural Join
+*/
+
